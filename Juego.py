@@ -7,7 +7,7 @@ while total >=3:
     juego13= input ("Es tu turno, cuántas coges?:")
     try:
         ijuego13=int(juego13)
-        if ijuego13 <= 3:
+        if ijuego13<=3 and ijuego13>0:
             er = vp - ijuego13
             total = total - ijuego13 - er
             print ("Yo he cogido", er)

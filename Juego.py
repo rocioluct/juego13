@@ -1,4 +1,4 @@
-print ("Te reto a un juego. Tenemos 13 piedras. Cada uno en su turno tiene que coger 1, 2 o 3. El juego consiste en no ser el último en coger la última piedra. ")
+print ("Te reto a un juego. Tenemos 13 piedras. Cada uno en su turno tiene que coger 1, 2 o 3. El juego consiste en no ser el último en coger la última piedra. Te aviso que siempre te voy a ganar")
 
 total = 13
 vp = 4
